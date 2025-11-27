@@ -1,0 +1,5 @@
+{
+  "name": "KnowledgePath",
+  "description": "A visual roadmap generator for book lovers. Discover where your current read fits in the grand scheme of a subject, identify knowledge gaps, and find the next best books to master the domain.",
+  "requestFramePermissions": []
+}
